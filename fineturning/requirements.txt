@@ -1,0 +1,7 @@
+wandb
+transformers
+peft
+torch
+trl
+datasets
+pandas
