@@ -47,7 +47,7 @@ print_system_specs()
 
 
 # Pre trained model
-model_name = "numfa/numfa_v2-3b" 
+model_name = "pythainlp/KhanomTanLLM-3B" 
 
 # # Dataset name
 # dataset_name = "vicgalle/alpaca-gpt4"

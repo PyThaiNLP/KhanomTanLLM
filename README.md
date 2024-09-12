@@ -24,9 +24,9 @@ Codename: numfa-v2
 
 We fine-turning model from [wannaphong/KhanomTanLLM-Instruct-dataset](https://huggingface.co/datasets/wannaphong/KhanomTanLLM-Instruct-dataset). We doesn't have any safeguard, so use your risk.
 
-To get the best relur, we suggget the setting:
+To get the best result, we suggget the setting:
 
-- temp: 2 - 4
+- temperature: 2 - 4
 - min_p: > 0.6
 
 ## Acknowledgements

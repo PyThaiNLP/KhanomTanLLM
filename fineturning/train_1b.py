@@ -46,7 +46,7 @@ print_system_specs()
 
 
 # Pre trained model
-model_name = "numfa/KhanomTanLLM-1B" 
+model_name = "pythainlp/KhanomTanLLM-1B" 
 
 new_model = "mark5_1b_sft"
 
