@@ -17,6 +17,7 @@ Codename: numfa-v2
     * 3B: [https://huggingface.co/pythainlp/KhanomTanLLM-3B](https://huggingface.co/pythainlp/KhanomTanLLM-3B)
 - Instruct Models:
     * Instruct dataset: [wannaphong/KhanomTanLLM-Instruct-dataset](https://huggingface.co/datasets/wannaphong/KhanomTanLLM-Instruct-dataset)
+    * SFT Script: [https://github.com/PyThaiNLP/KhanomTanLLM/tree/main/fineturning](https://github.com/PyThaiNLP/KhanomTanLLM/tree/main/fineturning)
     * 1B: [https://huggingface.co/pythainlp/KhanomTanLLM-1B-Instruct](https://huggingface.co/pythainlp/KhanomTanLLM-1B-Instruct)
     * 3B: [https://huggingface.co/pythainlp/KhanomTanLLM-3B-Instruct/](https://huggingface.co/pythainlp/KhanomTanLLM-3B-Instruct/)
 
