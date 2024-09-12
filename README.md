@@ -11,7 +11,7 @@ KhanomTan LLM is a bilingual language model trained in Thai and English from ope
 Codename: numfa-v2
 
 - Pretraining dataset: [https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset](https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset)
-- Pretraining scpist: [https://github.com/wannaphong/EasyLM/tree/KhanomTanLLM-pretraining](https://github.com/wannaphong/EasyLM/tree/KhanomTanLLM-pretraining)
+- Pretraining script: [https://github.com/wannaphong/EasyLM/tree/KhanomTanLLM-pretraining](https://github.com/wannaphong/EasyLM/tree/KhanomTanLLM-pretraining)
 - Pretrained Models:
     * 1B: [https://huggingface.co/pythainlp/KhanomTanLLM-1B](https://huggingface.co/pythainlp/KhanomTanLLM-1B)
     * 3B: [https://huggingface.co/pythainlp/KhanomTanLLM-3B](https://huggingface.co/pythainlp/KhanomTanLLM-3B)
