@@ -12,6 +12,7 @@ Codename: numfa-v2
 - **Online Demo**: [https://huggingface.co/spaces/wannaphong/KhanomTanLLM-demo](https://huggingface.co/spaces/wannaphong/KhanomTanLLM-demo)
 - Pretraining dataset: [https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset](https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset)
     * Thai subset only: [https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset-thai-subset](https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset-thai-subset)
+    * List Thai subset: [https://huggingface.co/collections/pythainlp/datasets-for-pretrained-thai-llm-65db96ab730386b492889a98](https://huggingface.co/collections/pythainlp/datasets-for-pretrained-thai-llm-65db96ab730386b492889a98)
 - Pretraining script: [https://github.com/wannaphong/EasyLM/tree/KhanomTanLLM-pretraining](https://github.com/wannaphong/EasyLM/tree/KhanomTanLLM-pretraining)
 - Pretrained Models:
     * 1B: [https://huggingface.co/pythainlp/KhanomTanLLM-1B](https://huggingface.co/pythainlp/KhanomTanLLM-1B)
