@@ -9,6 +9,9 @@
 KhanomTan LLM is a bilingual language model trained in Thai and English from open source dataset by PyThaiNLP. We train the model from public dataset only. It is a fully open source model. We releses the dataset, training pipeline, and models.
 
 Codename: numfa-v2
+
+Blog Post (Thai): [https://pythainlp.org/2024-09-12-khanomtanllm/](https://pythainlp.org/2024-09-12-khanomtanllm/)
+
 - **Online Demo**: [https://huggingface.co/spaces/wannaphong/KhanomTanLLM-demo](https://huggingface.co/spaces/wannaphong/KhanomTanLLM-demo)
 - Pretraining dataset: [https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset](https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset)
     * Thai subset only: [https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset-thai-subset](https://huggingface.co/datasets/wannaphong/KhanomTanLLM-pretrained-dataset-thai-subset)
